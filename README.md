@@ -23,6 +23,10 @@ You can run it over night every 15/30/45/60 minutes. It will run automatically. 
 
 You can speedup the process of farming, just downgrade the 1000 in 1000 * Random() to e.g: 500 or 250.
 
+
+PS: If you intend to use it without modifications, be sure to add your name and a CustomCode in my memoization repo in the log file.
+You find two examples there. (The Bot fetches the data and checks if your name is given).
+
 -----------------------------------------
 
 
