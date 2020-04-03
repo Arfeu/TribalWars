@@ -18,10 +18,10 @@ Global $__g_oHTTP_ErrorHandler = ObjEvent("AutoIt.Error", __HTTP_OnError) ; Inst
 ; and will print out the error informations by the Console
 Func __HTTP_OnError(ByRef $oMyError)
 	Local $HexNumber = Hex($oMyError.number, 8)
-	;ConsoleWrite("We intercepted a COM Error !" & @LF & _
-			;"Number is: " & $HexNumber & @LF & _
-			;"Windescription is: " & $oMyError.windescription _
-			;)
+	ConsoleWrite("We intercepted a COM Error !" & @LF & _
+			"Number is: " & $HexNumber & @LF & _
+			"Windescription is: " & $oMyError.windescription _
+			)
 	Return SetError(5, $HexNumber, 0)
 EndFunc   ;==>__HTTP_OnError
 
