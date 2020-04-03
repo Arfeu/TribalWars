@@ -5,13 +5,15 @@ Site: https://onlinebots.wixsite.com/tribalwars
 YouTube: https://www.youtube.com/watch?v=0oK5SBWyqiI
 
 
-Got the idea to make it purchaseable, but dropped it. Here's the code if you like it, feel free to use it! :)
+Got the idea to make it purchaseable, but dropped it. Here's the code, if you like it, feel free to use it! :)
 
 ----------------------------------------
 
 FarmBot for the Game TribalWars (www.tribalwars.net).
 
 Runs via FarmManager. Automatically sends from every given village all light units/or all pages in the FarmManager.
+
+IF MAX loot = sends A, if NOT_MAX = sends B in FarmManager. This is more effective.
 
 I use it myself. Got easily in the top 10-20 of farming in the world. (Even without using it at night).
 
