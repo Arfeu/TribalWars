@@ -15,7 +15,7 @@ Runs via FarmManager. Automatically sends from every given village all light uni
 
 IF MAX loot = sends A, if NOT_MAX = sends B in FarmManager. This is more effective.
 
-I use it myself. Got easily in the top 10-20 of farming in the world. (Even without using it at night).
+I use it myself. Got easily in the top 10 of farming in the world. (Even without using it at night).
 
 Should run on all servers (.de, .pl, .net, ..) and most worlds (with FarmManager).
 
