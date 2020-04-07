@@ -31,3 +31,9 @@ You find two examples there. (The Bot fetches the data and checks if your name i
 
 
 Always keep in mind: AutoIT is really great.
+
+
+-----------------------------------------
+
+
+Use for non-commercially purposes only!
