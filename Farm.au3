@@ -8,8 +8,6 @@
 
 #ce ----------------------------------------------------------------------------
 
-; Script Start - Add your code below here
-
 #include <String.au3>
 #include <IE.au3>
 #include <ButtonConstants.au3>
